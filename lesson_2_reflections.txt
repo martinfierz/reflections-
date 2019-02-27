@@ -1,3 +1,7 @@
 * When I run git init to create a repository, git produces a .git folder in which all the info is stored about the history of my files.
 
 * After git init, nothing is really done yet, there is no initial commit, and there are no files that git is tracking. 
+
+* staging area is a bit like a sandbox where you can play around with things before doing an actual commit.
+
+* I can use the staging area to add only that which belongs to a logical change, even if I made multiple changes in the working directory.
