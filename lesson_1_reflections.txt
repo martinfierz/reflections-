@@ -1,0 +1,13 @@
+The diff shows me what changed and only what changed so I can easily spot where a bug might have been introduced.
+
+I will be able to find and fix bugs faster
+
+Manual commit allows me to save only working tested version, with all logical changes compared to previous versions. Automatic commit will give non-compiling versions in the middle of something.
+
+saving multiple files in one commit allows to keep logical changes to one commit. google docs is meant for single-use unrelated documents, so does not allow multi-file commits
+
+git log shows me all commits with messages, dates and which files were changed. to find out what really changed, use git diff id1 id2 to show what the difference between two files is
+
+I know I can always go back to a working version so I don't have to worry about changes
+
+I want to use git to collaborate with Tobias Sigel on Android development

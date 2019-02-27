@@ -1,0 +1,3 @@
+* When I run git init to create a repository, git produces a .git folder in which all the info is stored about the history of my files.
+
+* After git init, nothing is really done yet, there is no initial commit, and there are no files that git is tracking. 
