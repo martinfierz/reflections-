@@ -5,3 +5,9 @@
 * staging area is a bit like a sandbox where you can play around with things before doing an actual commit.
 
 * I can use the staging area to add only that which belongs to a logical change, even if I made multiple changes in the working directory.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+* branches can help when you want to add a new feature but are not sure if it will work, you can keep a master copy that is not being touched. 
+also I don't need to know the cryptic commit names but can checkout "master" or "experimental" instead.
+
+diagrams show me what is reachable, and what the history was.
